@@ -47,7 +47,10 @@
     "tailwindcss-animate": "^1.0.7",
     "uploadthing": "^7.7.2",
     "zod": "^3.24.4",
-    "zustand": "^4.5.6"
+    "zustand": "^4.5.6",
+    "@anthropic-ai/sdk": "^0.39.0",
+    "mammoth": "^1.8.0",
+    "pdf-parse": "^1.1.1"
   },
   "devDependencies": {
     "@types/node": "^20.17.47",
@@ -60,6 +63,7 @@
     "postcss": "^8.5.3",
     "prettier": "^3.5.3",
     "prettier-plugin-tailwindcss": "^0.5.14",
+    "@types/pdf-parse": "^1.1.4",
     "prisma": "^5.22.0",
     "tailwindcss": "^3.4.17",
     "typescript": "^5.8.3"
